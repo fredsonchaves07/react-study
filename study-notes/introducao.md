@@ -19,6 +19,7 @@
 ## Criando o primeiro projeto
 - Necessário ter o Node instalado
 - O comando baaixo cria um projeto usando vite
+- A interface da aplicação é construida toda pelo Javascript
 
 ```shell
     npm create vite@latest
